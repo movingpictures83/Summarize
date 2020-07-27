@@ -1,0 +1,2 @@
+Prefix plugins/Summarize/example
+Plugin Summarize inputfile parameters.txt outputfile none
